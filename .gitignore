@@ -6,3 +6,5 @@ tools/loc/
 *.user
 *.suo
 Deployed/
+**/.vs/
+**/.idea/*
